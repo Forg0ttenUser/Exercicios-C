@@ -1,2 +1,1 @@
-# Exercicios-C
-Exercícios da linguagem C.
+Repositório destinado a solução de exercícios da linguagem de programaação de computadores C.
