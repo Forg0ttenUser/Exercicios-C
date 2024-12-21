@@ -1,1 +1,1 @@
-Repositório destinado a solução de exercícios da linguagem de programaação de computadores C.
+Repositório destinado à solução de exercícios da linguagem de programação de computadores C.
